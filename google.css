@@ -1,0 +1,36 @@
+#logobar {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#me {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+
+#bottom {
+  position: absolute;
+  height: 40px;
+  width: 99.8%;
+  background-color: rgb(242,242,242);
+  bottom: 0px;
+  left: 0px;
+  word-spacing: 30px;
+  line-height: 40px;
+  font-family: Roboto;
+  font-size: .8em;
+}
+
+#left {
+  float: left;
+  padding-left: 30px;
+  
+}
+
+#right {
+  float: right;
+  padding-right: 30px;
+}
